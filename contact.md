@@ -1,0 +1,23 @@
+---
+layout: page
+title: Contact
+permalink: /contact/
+---
+
+## Use Apartments.com For
+
+- Rent payments
+- Maintenance requests
+- Routine communication
+- Account records
+
+## Contact Us For
+
+- Questions about the property
+- Follow-up on open maintenance requests
+- Access issues
+- Urgent property concerns after 911 has been contacted, if needed
+
+## Reminder
+
+For non-emergency issues, please use the tenant portal and Apartments.com so there is a clear record of the request.
