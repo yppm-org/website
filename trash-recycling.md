@@ -22,9 +22,8 @@ Helpful topics include:
 
 **Links:**
 
-- [Lower Merion Trash and Recycling Schedule](#)
-- [What to Recycle](#)
-- [Holiday Schedule](#)
+- [Lower Merion Trash and Recycling Schedule](https://www.lowermerion.org/departments/public-works-department/refuse-and-recycling/lower-merion-trash-recycling-guide-and-schedule)
+- [What to Recycle](https://www.lowermerion.org/departments/public-works-department/refuse-and-recycling/what-to-recycle)
 
 ## Reminder
 

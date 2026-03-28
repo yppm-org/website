@@ -10,10 +10,10 @@ permalink: /contact/
 - Maintenance requests
 - Routine communication
 - Account records
+- Questions about the property
 
 ## Contact Us For
 
-- Questions about the property
 - Follow-up on open maintenance requests
 - Access issues
 - Urgent property concerns after 911 has been contacted, if needed

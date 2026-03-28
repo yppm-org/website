@@ -17,8 +17,8 @@ After calling 911, notify us through the emergency contact method listed in your
 
 ## Local Non-Emergency Contacts
 
-- **Lower Merion Police Non-Emergency:** 610-649-1000
-- **Gladwyne Fire Company:** 610-642-9586
+- **Lower Merion Police Non-Emergency:** [610-649-1000](tel:610-649-1000)
+- **Gladwyne Fire Company:** [610-642-9586](tel:610-642-9586)
 
 ## Property Emergencies
 

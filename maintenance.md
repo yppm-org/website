@@ -6,7 +6,7 @@ permalink: /maintenance/
 
 Use Apartments.com for all non-emergency maintenance requests.
 
-**Link:** [Submit a Maintenance Request](#)
+**Link:** [How To Submit a Maintenance Request](https://renterhelp.apartments.com/article/681-how-do-i-create-a-maintenance-request)
 
 ## Include the Following in Your Request
 

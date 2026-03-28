@@ -13,7 +13,7 @@ Rent payments must be made through Apartments.com.
 - View payment history
 - Manage your account details
 
-**Link:** [Apartments.com Rent Portal](#)
+**Link:** [Apartments.com Payments Topic](https://renterhelp.apartments.com/category/203-payments)
 
 ## Reminder
 
