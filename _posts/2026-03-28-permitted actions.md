@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Permitted Actions"
+redirect_from: /permitted-actions
 ---
 
 <!--

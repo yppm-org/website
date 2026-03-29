@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Your First 90 Days"
+redirect_from: /first-90
 ---
 
 Living in an older duplex will feel different than a newer apartment. Some things will work great, others will feel a little worn. That is normal.

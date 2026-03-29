@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Your First Week"
+redirect_from: /first-week
 ---
 
 <!--

@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Good Reminders"
+redirect_from: /reminders
 ---
 
 <!--

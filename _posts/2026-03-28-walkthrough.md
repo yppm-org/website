@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Walkthrough and Condition Report"
+redirect_from: /walkthrough
 ---
 
 <!--
